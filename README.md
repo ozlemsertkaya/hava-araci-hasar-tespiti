@@ -1,0 +1,1 @@
+# hava-araci-hasar-tespiti

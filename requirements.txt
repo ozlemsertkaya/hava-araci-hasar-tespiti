@@ -1,0 +1,8 @@
+opencv-python
+numpy
+pandas
+scikit-learn
+pillow
+matplotlib
+onnx
+pyserial
